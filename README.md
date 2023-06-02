@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phil - A web developer based in Northern Norway!</h1>
 
-<h3 align="center">I am passionate about component based developmemt & finding ways to use programming to be more efficient and effective in business settings</h3>
+<h3 align="center">I am passionate about component based developmemt & finding ways to use programming to be more efficient with data</h3>
 
 - 🌱 I’m currently learning **Python and JavaScript**
 - 📄 Know about my experiences [flowcv.com/resume/076ddj6je0](flowcv.com/resume/076ddj6je0)

@@ -3,7 +3,7 @@
 <h3 align="center">I am passionate about component based developmemt & finding ways to use programming to be more efficient with data</h3>
 
 - 🌱 I’m currently learning **Python and JavaScript**
-- 📄 Know about my experiences ([flowcv.com/resume/076ddj6je0](flowcv.com/resume/076ddj6je0))
+- 📄 Know about my experiences [FlowCV](https://flowcv.com/resume/076ddj6je0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

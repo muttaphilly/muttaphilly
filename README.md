@@ -2,7 +2,8 @@
 
 <h3 align="center">I am passionate about component based developmemt & finding ways to use programming to be more efficient with data</h3>
 
-- 🌱 I’m currently learning **Python and JavaScript**
+- 🌱 I’m currently self teaching **JavaScript**
+- 👨‍🎓 MSc Data Science Candidate
 - 📄 Know about my experiences at [FlowCV](https://flowcv.com/resume/076ddj6je0)
 
 <h4 align="left">Connect with me:</h4>

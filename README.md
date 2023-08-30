@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Phil - A web developer based in Northern Norway!</h1>
+<h1 align="center">Hi 👋, I'm Phil - A data science student & amateur web deve based in Northern Norway!</h1>
 
-<h3 align="center">I am passionate about component based developmemt & finding ways to use programming to be more efficient with data</h3>
+<h3 align="center">I am passionate about finding ways to use programming to be more efficient with data</h3>
 
-- 🌱 I’m currently self teaching **JavaScript**
+- 🌱 I’m currently self teaching **Python**
 - 👨‍🎓 MSc Data Science Candidate
 - 📄 Know about my experiences at [FlowCV](https://flowcv.com/resume/076ddj6je0)
 

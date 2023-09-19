@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Phil - A data science student & big data enthusiast based in Northern Norway!</h1>
+<h1 align="center">Hi 👋, I'm Phil - A data science student based in Northern Norway!</h1>
 
-<h3 align="center">I am passionate about finding ways to use programming to be more efficient with data</h3>
+<h3 align="center">I am a big data enthusiast & passionate about finding ways to use programming to be more efficient and effective in the workplace</h3>
 
 - 🌱 I’m currently self teaching **Python**
 - 👨‍🎓 MSc Data Science Candidate

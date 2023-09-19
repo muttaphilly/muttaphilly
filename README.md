@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Phil - A data science student & amateur web developer based in Northern Norway!</h1>
+<h1 align="center">Hi 👋, I'm Phil - A data science student & big data enthusiast based in Northern Norway!</h1>
 
 <h3 align="center">I am passionate about finding ways to use programming to be more efficient with data</h3>
 

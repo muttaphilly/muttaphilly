@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Phil - A data science student based in Australia and Northern Norway!</h1>
+<h1 align="center">Hi 👋, I'm Phil - A data science student based in Northern Norway!</h1>
 
 <h3 align="center">Big data enthusiast & passionate about finding ways to use programming to be more efficient and effective in the workplace</h3>
 

@@ -2,7 +2,7 @@
 
 <h3 align="center">Passionate about finding ways to use programming to be more efficient and effective in the workplace</h3>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Big+Data+Enthusiast;Data+Science+Student+at+UNSW" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Big+Data+Enthusiast;Data+Science+Student" alt="Typing SVG" /></a></p>
 
 - 👨‍🎓 MSc Data Science Candidate
 - 💼 Professional Background in Ecology

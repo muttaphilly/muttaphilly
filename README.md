@@ -6,7 +6,6 @@
 
 - 👨‍🎓 MSc Data Science Candidate
 - 💼 Professional Background in Ecology
-- 🌍 Split my time between Hobart and Henningsvær
 - 📄 Know about my experiences at [FlowCV](https://flowcv.com/resume/076ddj6je0)
 
 <h4 align="left">Connect with me:</h4>
